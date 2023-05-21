@@ -33,11 +33,11 @@ namespace FooBar
     {
         static void Main()
         {
-            Console.WriteLine("Silahkan masukan jumlah data yang ingin ditampilkan :");
+            Console.WriteLine("Please insert data will showing :");
             var data = Console.ReadLine();
-            Console.WriteLine("Silahkan masukan input rule yang diinginkan :");
+            Console.WriteLine("Please insert input rules :");
             var input = Console.ReadLine();
-            Console.WriteLine("Silahkan masukan output rule yang diinginkan :");
+            Console.WriteLine("Please insert output rules :");
             var output = Console.ReadLine();
             myClass.showData(int.Parse(data), int.Parse(input), output);
             Console.ReadLine();
