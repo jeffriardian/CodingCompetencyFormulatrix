@@ -1,0 +1,15 @@
+D:\Recruitment History\Company\PT Formulatrix\CodingCompetency3\CodingCompetency3\bin\Debug\net6.0\CodingCompetency3.exe
+D:\Recruitment History\Company\PT Formulatrix\CodingCompetency3\CodingCompetency3\bin\Debug\net6.0\CodingCompetency3.deps.json
+D:\Recruitment History\Company\PT Formulatrix\CodingCompetency3\CodingCompetency3\bin\Debug\net6.0\CodingCompetency3.runtimeconfig.json
+D:\Recruitment History\Company\PT Formulatrix\CodingCompetency3\CodingCompetency3\bin\Debug\net6.0\CodingCompetency3.dll
+D:\Recruitment History\Company\PT Formulatrix\CodingCompetency3\CodingCompetency3\bin\Debug\net6.0\CodingCompetency3.pdb
+D:\Recruitment History\Company\PT Formulatrix\CodingCompetency3\CodingCompetency3\obj\Debug\net6.0\CodingCompetency3.csproj.AssemblyReference.cache
+D:\Recruitment History\Company\PT Formulatrix\CodingCompetency3\CodingCompetency3\obj\Debug\net6.0\CodingCompetency3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Recruitment History\Company\PT Formulatrix\CodingCompetency3\CodingCompetency3\obj\Debug\net6.0\CodingCompetency3.AssemblyInfoInputs.cache
+D:\Recruitment History\Company\PT Formulatrix\CodingCompetency3\CodingCompetency3\obj\Debug\net6.0\CodingCompetency3.AssemblyInfo.cs
+D:\Recruitment History\Company\PT Formulatrix\CodingCompetency3\CodingCompetency3\obj\Debug\net6.0\CodingCompetency3.csproj.CoreCompileInputs.cache
+D:\Recruitment History\Company\PT Formulatrix\CodingCompetency3\CodingCompetency3\obj\Debug\net6.0\CodingCompetency3.dll
+D:\Recruitment History\Company\PT Formulatrix\CodingCompetency3\CodingCompetency3\obj\Debug\net6.0\refint\CodingCompetency3.dll
+D:\Recruitment History\Company\PT Formulatrix\CodingCompetency3\CodingCompetency3\obj\Debug\net6.0\CodingCompetency3.pdb
+D:\Recruitment History\Company\PT Formulatrix\CodingCompetency3\CodingCompetency3\obj\Debug\net6.0\CodingCompetency3.genruntimeconfig.cache
+D:\Recruitment History\Company\PT Formulatrix\CodingCompetency3\CodingCompetency3\obj\Debug\net6.0\ref\CodingCompetency3.dll
