@@ -34,13 +34,13 @@ namespace FooBar
             return divide5;
         }
 
-        public static int divisibleBy7(int n)
+        private static int divisibleBy7(int n)
         {
             var divide7 = n % 7;
             return divide7;
         }
 
-        public static int divisibleBy9(int n)
+        private static int divisibleBy9(int n)
         {
             var divide9 = n % 9;
             return divide9;
