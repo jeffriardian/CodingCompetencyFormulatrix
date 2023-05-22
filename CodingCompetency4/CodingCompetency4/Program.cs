@@ -8,10 +8,11 @@ namespace FooBar
 {
     class myClass
     {
+        private static int total;
 
-        public static void showData(int data, int input, string output)
+        public static void addRule(int input, string output)
         {
-            for (var n = 1; n <= data; n++)
+            for (var n = 1; n <= total; n++)
             {
                 var isDivisible = false;
 
@@ -27,19 +28,16 @@ namespace FooBar
                     Console.WriteLine(n);
             }
         }
-    }
-
-    class Foobar
-    {
         static void Main()
         {
             Console.WriteLine("Please insert data will showing :");
             var data = Console.ReadLine();
+            total = int.Parse(data);
             Console.WriteLine("Please insert input rules :");
             var input = Console.ReadLine();
             Console.WriteLine("Please insert output rules :");
             var output = Console.ReadLine();
-            myClass.showData(int.Parse(data), int.Parse(input), output);
+            addRule(int.Parse(input), output);
             Console.ReadLine();
         }
     }
